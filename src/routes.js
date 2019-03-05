@@ -2,7 +2,7 @@ import React from 'react';
 import Layout from './HOC/Layout';
 
 const Routes = props => {
-  return <Layout>second line</Layout>;
+  return <Layout />;
 };
 
 export default Routes;

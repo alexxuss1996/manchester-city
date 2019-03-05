@@ -2,7 +2,7 @@ import React from 'react';
 
 import { Link } from 'react-router-dom';
 
-import mcitylogo from '../../images/logos/manchester_city_logo.png';
+import mcitylogo from '../../Res/images/logos/manchester_city_logo.png';
 
 export const CityLogo = props => {
   const template = (
